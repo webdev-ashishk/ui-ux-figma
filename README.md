@@ -23,6 +23,6 @@ f - - - - - - - - - - - - - - - - - - - show all the frames !
 # Wireframeing
 
 – creating scatch of whats your website look like!
-– Blue print of your website look and feel!
+– Blue print of your website !
 
 ![Alt text](image.png)
